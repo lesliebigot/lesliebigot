@@ -60,7 +60,7 @@
 
 **Rôle** : Développeuse Full Stack (60% backend / 40% frontend) + Product Owner
 
-`React` `Node.js` `Express` `PostgreSQL` `Sequelize` `JWT` 
+`React` `Node.js` `Typescript` `Express` `PostgreSQL` `Sequelize` `JWT` 
 
 ---
 
@@ -114,7 +114,7 @@ Un œil pour le détail et le sens de la composition qui nourrissent mon approch
 - 💼 **LinkedIn** : [linkedin.com/in/lesliebigot](https://www.linkedin.com/in/lesliebigot)
 - 📧 **Email** : [leslieBIGOT@hotmail.com](mailto:leslieBIGOT@hotmail.com)
 - 📍 **Localisation** : Tours, Centre-Val de Loire, France
-- 🌍 **Disponibilité** : Février 2026 (CDI/CDD)
+- 🌍 **Disponibilité** : Mars 2026 (CDI/CDD)
 
 ---
 
