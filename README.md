@@ -54,7 +54,7 @@
 🔹 **Backend** : API REST MVC avec 25+ endpoints sécurisés (JWT, refresh token)  
 🔹 **RBAC** : Système de permissions avec middleware personnalisé  
 🔹 **Base de données** : PostgreSQL (8 tables) avec Sequelize ORM  
-🔹 **Frontend** : React avec 15+ composants réutilisables (DaisyUI)  
+🔹 **Frontend** : React  et TypeScript avec 15+ composants réutilisables (DaisyUI)  
 🔹 **Tests** : Jest & Vitest  
 🔹 **Méthodologie** : Agile/Scrum, Kanban, wireframes, user stories  
 
