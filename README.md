@@ -11,8 +11,8 @@
 > **En reconversion depuis la chimie analytique pharmaceutique**  
 > 20 ans d'expérience en environnement réglementé → Rigueur, méthodologie et qualité du code
 
-🎯 **Actuellement** : En stage chez eMyosound (dispositif médical) jusqu'au 7 janvier 2026  
-🔍 **Recherche active** : Poste de Développeuse Full Stack JavaScript (CDI/CDD) - Disponible février 2026  
+🎯 **Dernière expérience** : En stage chez eMyosound (dispositif médical) jusqu'au 7 janvier 2026  
+🔍 **Recherche active** : Poste de Développeuse Full Stack JavaScript (CDI/CDD)  
 📍 **Localisation** : Tours, Centre-Val de Loire, France
 
 ---
