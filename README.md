@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Leslie Bigot !
+# 👋 Bonjour, je suis Leslie
 
 <div align="center">
   
